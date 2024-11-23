@@ -1,7 +1,5 @@
 # WebOpener
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## What is WebOpener?
 
 WebOpener is a bookmarklet to open web pages via about:blank cloaking.
