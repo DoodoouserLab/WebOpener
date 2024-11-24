@@ -6,7 +6,7 @@ WebOpener is a bookmarklet that opens web pages via about:blank cloaking.
 
 ## How to Use
 
-To change the site, change the string for the variable "url." You can either go to the file with the code or copy it from here. Run the code in a html compiler and click on the button that shows up.
+To change the site, change the string for the variable "url." You can either go to the file with the code or copy it from here. Run the code in a html compiler and click on the button that shows up. It will take you to a webpage with a url "about:blank" that will hide the site's actual url. The default url is a proxy.
 ```html
 <!-- Created by DoodoouserLab -->
 
