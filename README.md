@@ -2,7 +2,7 @@
 
 ## What is WebOpener?
 
-WebOpener is a bookmarklet to open web pages via about:blank cloaking.
+WebOpener is a bookmarklet that opens web pages via about:blank cloaking.
 
 ## How to Use
 
